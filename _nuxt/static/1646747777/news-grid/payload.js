@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/news-grid", {data:[{}],fetch:{},mutations:void 0});
