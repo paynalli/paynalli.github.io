@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/es/products-tamino", {data:[{}],fetch:{},mutations:void 0});
